@@ -1,0 +1,32 @@
+{
+  "name": "neocortex",
+  "version": "1.0.0",
+  "description": "Express middleware of neocortex. Front-end packages analytizer and loader on server-side.",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:cortexjs/node-neocortex.git"
+  },
+  "keywords": [
+    "neocortex",
+    "middleware",
+    "express",
+    "expressjs",
+    "analytizer"
+  ],
+  "engines": { 
+    "node": ">=0.8.0"
+  },
+  "author": "kael",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cortexjs/node-neocortex/issues"
+  },
+  "devDependencies": {
+    "mocha": "~1.13.0",
+    "chai": "~1.8.0"
+  }
+}
